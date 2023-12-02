@@ -1,6 +1,4 @@
 {
-  "urls": [
-    "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix",
-    "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Ray-list-current"
-  ]
+  "https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix": "Telegram V2ray Source",
+  "https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Ray-list-current": "Github V2ray Source"
 }
